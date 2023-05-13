@@ -1,0 +1,25 @@
+{
+	"malaga": {
+		"bond_token": {
+			"codeId": 3966,
+			"address": "wasm154n4x5a24u6q557th8lh86tvc2pnuek3msjay6y36mw84v37pc4sgtzagv"
+		},
+		"currency": {
+			"codeId": 0,
+			"address": ""
+		},
+		"factory": {
+			"codeId": 0,
+			"address": ""
+		},
+		"placeholder": {
+			"codeId": 3977,
+			"address": "wasm1w5rrsrwhvea3752krdfw52yxyp98gnpuwctl6hjyavlxkt88430qn0vn2q"
+		},
+		"router": {
+			"codeId": 0,
+			"address": ""
+		}
+	},
+	"juno": {}
+}
